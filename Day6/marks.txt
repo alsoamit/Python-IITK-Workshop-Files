@@ -1,0 +1,13 @@
+Roll_No Quiz Exam Assignment Project GPA Grade
+MaxMarks 20 100 100 50 None None
+Weight 15 40 20 25 None None
+110 13 61 74 30 None None
+101 None 55 60 43.5 None None
+106 16 88 90 48 None None
+104 18 81 95 28 None None 
+108 4 59 60 45 None None
+109 20 95 95 41.5 None None
+105 15 83.5 80 45 None None
+102 19 96 94.5 45.5 None None
+103 7 92 86 30 None None
+104 None 78 None 39 None None
